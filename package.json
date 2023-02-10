@@ -1,0 +1,14 @@
+{
+  "name": "dance-website",
+  "version": "1.0.0",
+  "description": "This is website for popular dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harry bhai",
+  "license": "ISC",
+  "dependencies": {
+    "pug": "^3.0.2"
+  }
+}
